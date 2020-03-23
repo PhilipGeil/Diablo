@@ -1,0 +1,6 @@
+C:\Users\phil2643\source\repos\Diablo\Diablo\bin\Debug\Diablo.exe.config
+C:\Users\phil2643\source\repos\Diablo\Diablo\bin\Debug\Diablo.exe
+C:\Users\phil2643\source\repos\Diablo\Diablo\bin\Debug\Diablo.pdb
+C:\Users\phil2643\source\repos\Diablo\Diablo\obj\Debug\Diablo.csprojAssemblyReference.cache
+C:\Users\phil2643\source\repos\Diablo\Diablo\obj\Debug\Diablo.exe
+C:\Users\phil2643\source\repos\Diablo\Diablo\obj\Debug\Diablo.pdb
