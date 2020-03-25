@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Diablo
 {
-    abstract class Axe : Weapon
+    class Axe : Weapon
     {
-        public Axe(string name, int damage, string type, double aps, int props) : base(name, damage, type, aps, props) { }
+        public Axe(string name, int minDamage, int maxDamage, string rarity, double aps, bool oneHand, int props, int id) : base(name, minDamage, maxDamage, rarity, aps, oneHand, props, id) { }
     }
 }

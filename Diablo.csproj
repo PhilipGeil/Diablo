@@ -44,11 +44,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Axe.cs" />
+    <Compile Include="Catalogue.cs" />
+    <Compile Include="CeremonialKnife.cs" />
+    <Compile Include="Dagger.cs" />
+    <Compile Include="FistWeapon.cs" />
+    <Compile Include="Flail.cs" />
+    <Compile Include="Mace.cs" />
     <Compile Include="MagicProperties.cs" />
-    <Compile Include="OneHandedAxe.cs" />
+    <Compile Include="MightyWeapon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TwoHandedAxe.cs" />
+    <Compile Include="Scythe.cs" />
+    <Compile Include="ShopManager.cs" />
+    <Compile Include="Spear.cs" />
+    <Compile Include="Sword.cs" />
+    <Compile Include="User.cs" />
     <Compile Include="Weapon.cs" />
     <Compile Include="WeaponFactory.cs" />
   </ItemGroup>
