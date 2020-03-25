@@ -9,7 +9,6 @@ namespace Diablo
     public class MagicProperties
     {
         public string Prop { get; private set; }
-        public List<string> TwoHander = new List<string>();
 
         public MagicProperties(bool oneHand, int index, Random r)
         {
